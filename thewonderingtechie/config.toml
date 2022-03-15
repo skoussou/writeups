@@ -1,3 +1,4 @@
 baseURL = 'https://www.wonderingtechie.com/'
 languageCode = 'en-us'
 title = 'The Wondering Techie'
+theme = "hugo-clarity"

@@ -24,7 +24,7 @@ The method to deliver in this environment did not differ too much from deliverin
 
 As a result in this and the following blog posts I will explore the 3 most common symptoms 
 
-* [Part 1 - Application Troubles in the Cloud (Symptom: Kubernetes POD Failures/Restarts)](www.wonderingtechie.com/post/part-1-application-trouble-in-the-cloud-pod-restarts/)
+* [Part 1 - Application Troubles in the Cloud (Symptom: Kubernetes POD Failures/Restarts)](https://www.wonderingtechie.com/post/2022/part-1-application-trouble-in-the-cloud-pod-restarts/)
 * Part 2 - Application Troubles in the Cloud (Symptom: Performance Problems whilst part of a Service Mesh) 
 * Part 3 - Application Troubles in the Cloud (Symptom: Application Functional Issues)
 
@@ -35,7 +35,7 @@ that they were most often faced with and based on that I will suggest the areas 
 The first symptom the platform maintenance personnel came up against was either an Application POD complete failure or continuous restarts. In this case the possible causes (without a particular order or priority) could be :
 
 * [Cause 1: Cluster health related](#cause-1---cluster-health-related)
-* [Cause 2: Cluster configuration related](#cause-2---cluster-config-related)
+* [Cause 2: Cluster configuration related](#cause-2---cluster-configuration-related)
 * [Cause 3: Application or Application environment related](#cause-3---application-or-application-environment-related)
 * [Cause 4: Deployment configuration related](#cause-4---deployment-configuration-related)
 

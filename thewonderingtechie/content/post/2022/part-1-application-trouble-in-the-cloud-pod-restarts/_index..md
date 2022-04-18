@@ -2,7 +2,7 @@
 author = "Stelios Kousouris"
 title = "Part 1 - Application Troubles in the Cloud (Symptom: Kubernetes POD Failures or often Restarts)"
 date = "2022-03-14"
-description = "Part 1 or 3 troubleshoot application failures in the OpenShift container platform"
+description = "Part 1 of 3 troubleshoot application failures in the OpenShift container platform"
 tags = [
     "Troubleshooting",
     "CloudApps",
@@ -25,8 +25,8 @@ The method to deliver in this environment did not differ too much from deliverin
 As a result in this and the following blog posts I will explore the 3 most common symptoms 
 
 * [Part 1 - Application Troubles in the Cloud (Symptom: Kubernetes POD Failures/Restarts)](https://www.wonderingtechie.com/post/2022/part-1-application-trouble-in-the-cloud-pod-restarts/)
-* Part 2 - Application Troubles in the Cloud (Symptom: Performance Problems whilst part of a Service Mesh) 
-* Part 3 - Application Troubles in the Cloud (Symptom: Application Functional Issues)
+* [Part 2 - Application Troubles in the Cloud (Symptom: Performance Problems whilst part of a Service Mesh)](https://www.wonderingtechie.com/post/2022/part-2-application-trouble-in-the-cloud-servicemesh-app-performance/)
+* [Part 3 - Application Troubles in the Cloud (Symptom: Application Functional Issues)](https://www.wonderingtechie.com/post/2022/part-3-application-trouble-in-the-cloud-application-functional-issues/)
 
 that they were most often faced with. Based on the symptom we will suggest areas to focus as you try to verify the cause and finally will also provide focused troubleshooting and possible remediation actions to take. 
 

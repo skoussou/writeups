@@ -4,6 +4,7 @@ title = "mTLS in the Mesh with Redhat OpenShift Service Mesh (OSSM) - On or Off?
 date = "2022-05-10"
 thumbnail = "/images/20220510/mTLS-in-the-Mesh-with-OSSM-OnorOff.jpg"
 shareImage = "/images/20220510/mTLS-in-the-Mesh-with-OSSM-OnorOff.jpg"
+featureImage = "/images/20220510/mTLS-in-the-Mesh-with-OSSM-OnorOff.jpg"
 description = "The article goes over examples where mTLS configuration on Redhat OpenShift Service Mesh (OSSM) settings do not completely turn off mTLS, when it would be needed to be turned off or turned on and how one would determine whether traffic is encrypted"
 tags = [
     "ossm",

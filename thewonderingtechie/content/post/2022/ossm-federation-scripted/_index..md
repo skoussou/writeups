@@ -24,8 +24,7 @@ Sometimes requirements (high-availability, multi-region solutions) dictate the s
 
 Service Mesh federation functionality and configurations are described in detail in the [documentation](https://docs.openshift.com/container-platform/4.9/service_mesh/v2x/ossm-federation.html). The following video presents an automated federation setup which you can find in this [Federation Demo Automation github repository](https://github.com/skoussou/servicemesh-playground/tree/main/Scenario-Platform-1-Federation) should you wish to try it out.
 
-{{< youtube id="USrTSixYd80" autoplay="true" title="Automated Red Hat Openshift Service Mesh setup" >}}
 
-
+{{< youtube USrTSixYd80 >}}
 
 
